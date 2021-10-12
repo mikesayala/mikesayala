@@ -18,8 +18,8 @@ I'm a full stack web developer that got my knowledge and skills attending a full
 
 <div align="center">
   
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesayala&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mikesayala&show_icons=true&theme=tokyonight&hide=stars,contribs&line_height=30)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikesayala&layout=compact&theme=tokyonight)
 
 </div>
 
